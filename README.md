@@ -1,6 +1,3 @@
-# clanky-cli
-Clanky CLI - Terminal-Based AI Assistant
-
 # Clanky CLI - Terminal-Based AI Assistant
 
 A terminal-native intelligent assistant powered by any OpenRouter-compatible LLM. Built with flexibility in mind, Clanky gives users the freedom to choose their own model.
